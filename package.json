@@ -20,6 +20,7 @@
   "homepage": "https://github.com/idop-spotinst/dog-book-backend#readme",
   "dependencies": {
     "@babel/polyfill": "^7.8.3",
+    "@koa/cors": "^2.2.3",
     "koa": "^2.11.0",
     "koa-body": "^4.1.1",
     "koa-router": "^7.4.0",
